@@ -1,0 +1,3 @@
+For example, you could use a text summarization tool like SummarizeBot or SMMRY to generate short summaries of your documents. You could also use a keyword extraction tool like RapidAPI or TextRank to identify the most important words or phrases in your documents.
+
+But it would mostly need to be trained on a lot of data of conversations about Myndlift.

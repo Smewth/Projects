@@ -1,0 +1,39 @@
+- Make an application to record data tailored to the specific things I will be doing in each activity.
+- Make a web-scraping tool that automatically records and saves all of the item prices of specific items in a certain list and records them in a .csv file
+- Gather market data and ring a noise every time there's a cheap item to resell in one of your markets
+- Corellate Market prices with Gold prices
+- App to tell me which day of the week is best to sell each item
+- How Item quantity correlates to item price
+- Black Market flipper
+- Make an application to get prices in real-time, you enter the names of the items you want, and it gets the info
+
+---- APPLICATION ----
+
+Gathering Math:
+
+Tier 2 & 3: Always 20%
+Tier 4 and 5: enter before
+
+Fame - 
+- If faction enlisted > 5/10/15% bonus
+
+Enter after finishing the session
+- Make a stopwatch
+- Make it stay on top of the window
+- Play sound when it's done 
+- Make you update the stats after
+- Make it update the .csv file
+
+Variables:
+Each tier of farming yield %
+Each tier of ore farmed
+Server time used to farm
+Map used to farm
+Mount Move speed / Gallop Move speed
+Total weight ? 
+
+Shit to research:
+How level correlates to speed of gathering and how that correlates to gathering yield % and nr
+
+Conclusions to take:
+Which way to level faster

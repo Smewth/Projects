@@ -1,0 +1,31 @@
+1st: Gather all of the data from the ores every time you want to sell them, just run the application, 
+make an app to tell you where best to sell it, maybe where best to sell each one
+- You only really want sell_price_min
+
+    1st: request the api for the data
+    2nd: scrape the data from website
+    3rd: upload to csv or directly make the math
+    4th: display in a window the best place to sell everything
+
+    ?: maybe ask the user what items they're selling and tailor the request to it, do it with checkboxes
+    
+
+
+
+
+
+?: Gather the data continually to see market trends and when is the best time to sell each item, 
+upload it to a .csv file that you can tailor to your needs
+?: Figure out market tax to do the math to resell items if possible, make it warn you if there's a 
+cheap item you can buy
+?: Scrape inventory straight from client somehow, maybe with the albion data project client
+?: Transporter app, make it tell you where to go to sell items, maybe make it tell you where to go to buy items
+
+
+https://europe.albion-online-data.com/api/v2/stats/view/
+
+T4_BAG,T5_BAG?locations=Caerleon,Bridgewatch&qualities=2
+
+
+
+stopwatch + 15min
